@@ -1,6 +1,6 @@
 # My First Playground!
 
-This Java template is my first one uploaded on tech.io.
+This Java template is my first one uploaded on tech.io. It doesn't even work.
 
 ```java runnable
 // { autofold
