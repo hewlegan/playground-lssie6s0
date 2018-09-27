@@ -9,12 +9,16 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "Hello World!";
-System.out.println(message);
-
+String name = "John!";
+int J = 1
+if int J == 1 {
+int J = J + 1
+System.out.println("Hello" + name);
+}
+else if int J == 2 {
 //{ autofold
 }
-
+}
 }
 //}
 ```
