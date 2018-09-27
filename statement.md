@@ -11,11 +11,11 @@ public static void main(String[] args) {
 
 String name = "John!";
 int J = 1;
-if int J == 1 {
+if int (J == 1) {
 int J = J + 1
 System.out.println("Hello" + name);
 }
-else if int J == 2 {
+else if (int J == 2) {
 int J = 1;
 }
 }
