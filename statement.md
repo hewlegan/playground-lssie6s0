@@ -10,13 +10,13 @@ public static void main(String[] args) {
 // }
 
 String name = "John!";
-int J = 1;
-if int (J == 1) {
-int J = J + 1
+int j = 1;
+if (int j == 1) {
+int j = j + 1;
 System.out.println("Hello" + name);
 }
 else if (int J == 2) {
-int J = 1;
+int j = j - 1;
 }
 }
 }
