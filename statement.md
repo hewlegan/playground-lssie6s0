@@ -2,11 +2,6 @@
 
 This Java template is my first one uploaded on tech.io. It doesn't even work.
 
-title: First Playground!
-plan:
-  - title: Welcome
-    statement: markdowns/welcome.md
-
 
 ```java runnable
 // { autofold
